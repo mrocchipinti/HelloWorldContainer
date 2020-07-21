@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LF/sDbB433Ye6ofMjx8VOC+E5kb+1w9xBTIu1iqOLg0ywi3qbqTeHdegBeUchZZp2U73TJ/YL+a9PHarbcu4Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\occhipin\\source\\repos\\HelloWorldContainer\\HelloWorldContainer\\HelloWorldContainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\occhipin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
